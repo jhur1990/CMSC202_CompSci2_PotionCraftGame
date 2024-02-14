@@ -1,5 +1,4 @@
 //Title: Game.h
-//Author: Jeremy Dixon, edited by Gabe Doersam
 //Date: 2/10/2023
 //Description: This is part of the PotionCraft Project in CMSC 202 @ UMBC
 
